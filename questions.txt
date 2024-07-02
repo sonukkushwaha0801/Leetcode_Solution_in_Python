@@ -1,0 +1,17 @@
+Easy:
+    21: Merge Two sorted Lists
+    203: Remove Linked linked Elements
+    206: Reverse Linked List
+    876: Middle of the Linked List
+
+Medium:
+    19: Remove Nth Node From End of List
+    24: Sawp Nodes in Pairs
+    116: Populating Next Right Pointers in Each Node
+    117: Populating Next Right Pointers in Each Node II
+    237: Delete Node in an linked List
+    707: Design Linkedin Lists
+
+Hard:
+    23: Merge k Sorted Lists
+    25: Reverse Nodes in k-Group
