@@ -1,0 +1,16 @@
+# Visit the profile for more solutions with minimum complexity
+#https://leetcode.com/sonukkushwaha0801/
+# Type one:
+
+from typing import List
+
+
+class Solution:
+    def minimumSize(self, nums: List[int], maxOps: int) -> int:
+        low, high = 1, max(nums) 
+        while low < high:
+            mid = (low + high) // 2
+            if sum((n - 1) // mid for n in nums) <= maxOps: high = mid
+            else: low = mid + 1
+        return high
+    
