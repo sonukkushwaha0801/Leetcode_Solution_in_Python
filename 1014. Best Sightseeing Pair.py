@@ -38,6 +38,3 @@ class Solution:
             result=max(result,first_max+second_max)
 
         return result
-
-
-        
