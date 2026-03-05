@@ -34,7 +34,6 @@ class Solution:
                     second_max=values[k]
                 else:
                     first_max=values[k]
-
             result=max(result,first_max+second_max)
-
         return result
+
