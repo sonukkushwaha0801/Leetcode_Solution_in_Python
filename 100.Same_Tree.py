@@ -1,7 +1,7 @@
 #Visit the profile for more solutions with minimum complexity
 #https://leetcode.com/sonukkushwaha0801/
 # One way:
-class Solution:
+class Solution: 
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         if p is None or q is None:
             return p == q
