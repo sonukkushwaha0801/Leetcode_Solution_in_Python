@@ -31,7 +31,7 @@ class Solution:
             if(i==0):
                 totalsat+=j
 
-        maxsat = 0
+        maxsat = 0 
 
         for i in range(len(grumpy)-minutes+1):
             sat = totalsat
