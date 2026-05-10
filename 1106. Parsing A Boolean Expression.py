@@ -1,6 +1,6 @@
 # Visit the profile for more solutions with minimum complexity
 # https://leetcode.com/sonukkushwaha0801/
-# One way:
+# One way:  
 
 from functools import cache
 from typing import List
