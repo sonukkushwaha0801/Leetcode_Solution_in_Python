@@ -4,7 +4,6 @@
 
 from typing import List
 
-
 class Solution:
     def maxScoreSightseeingPair(self, values: List[int]) -> int:
         max_score = 0
