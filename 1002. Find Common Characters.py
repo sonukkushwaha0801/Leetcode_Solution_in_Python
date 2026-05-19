@@ -1,7 +1,7 @@
 # Visit the profile for more solutions with minimum complexity
 #https://leetcode.com/sonukkushwaha0801/
 # Type one:
-from functools import reduce
+from functools import reduce    
 from operator import and_
 from typing import Counter, List
 class Solution:
