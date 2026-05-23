@@ -2,7 +2,7 @@
 #https://leetcode.com/sonukkushwaha0801/
 # One way:
 
-from typing import List
+from typing import List 
 
 
 class Solution:
