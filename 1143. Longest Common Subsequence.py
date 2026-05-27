@@ -1,6 +1,6 @@
 # Visit the profile for more solutions with minimum complexity
 # https://leetcode.com/sonukkushwaha0801/
-# One way:
+# One way: 
 class Solution:
     def solve(self, text1, text2, i, j):
         if i == len(text1) or j == len(text2):
